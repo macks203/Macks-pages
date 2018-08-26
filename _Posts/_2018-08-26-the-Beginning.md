@@ -1,0 +1,1 @@
+This is the start of my journey in web development and coding, I have always liked computers because they always made sense their was a language a ryme and reason for things, a protocol. My life turned out to not be any of those things and this is my attempt to figure out why and start a new journey.
